@@ -16,7 +16,9 @@ const myCreateRouter= createBrowserRouter([
         children: [
             {
                 path: '/',
-                element: <Home/>
+                element: <Home/>,
+                loader:()=> fetch('/fakaData.json')
+
             },
             {
                 path:'/Donation',

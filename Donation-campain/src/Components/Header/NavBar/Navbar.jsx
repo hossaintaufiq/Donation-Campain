@@ -3,10 +3,10 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
     return (
         <div>
-            <nav className="flex justify-between items-center w-3/4 mx-auto mt-8">
+            <nav className="flex flex-col lg:flex-row lg:gap-1 gap-2 justify-between items-center w-3/4 mx-auto mt-8">
 
                 <img src="Logo.png" alt="" />
-                <ul className=" flex gap-12 ">
+                <ul className=" flex p-5 gap-12  ">
 
                     {/* home */}
                     <NavLink
@@ -30,7 +30,7 @@ const Navbar = () => {
                     <NavLink
                         to="/statistics"
                         className={({ isActive, isPending }) =>
-                            isPending ? "pending" : isActive ? "text-[#FF444A] underline " : ""
+                            isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
                         }
                     >
                         Statistics

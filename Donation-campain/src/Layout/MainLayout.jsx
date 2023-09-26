@@ -13,8 +13,11 @@ const MainLayout = () => {
             </div>
 
             
-            
+            <div className='w-3/4 mx-auto'>
             <Outlet></Outlet>
+
+            </div>
+           
 
         </div>
     );

@@ -1,0 +1,138 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "picture": "Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#FF5733",
+        "text_button_bg_color": "#FF5733",
+        "description": " Make a difference in someone's life today! Donate food, clothing, or school supplies at our donation camp.",
+        "price": "$19.99"
+      },
+      {
+        "id": "2",
+        "picture": "Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#FFC300",
+        "card_bg_color": "#FFC300",
+        "text_button_bg_color": "#FFC300",
+        "description": "Help us provide a better future for our children. Donate to our donation camp today and support food, education, clothing, and health programs for children in need.",
+        "price": "$24.99"
+      },
+      {
+        "id": "3",
+        "picture": "Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#33FF57",
+        "card_bg_color": "#33FF57",
+        "text_button_bg_color":  "#33FF57",
+        "description": "Nourish the needy, clothe the cold, and teach the young at our donation camp!",
+        "price": "$14.99"
+      },
+      {
+        "id": "4",
+        "picture": "Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#3366FF",
+        "card_bg_color": "#3366FF",
+        "text_button_bg_color": "#3366FF",
+        "description": "Together, we can make a difference in the lives of those who need it most. Donate to our donation camp today and help us provide food, clothing, education, and health care to those in need.",
+        "price": "$29.99"
+      },
+      {
+        "id": "5",
+        "picture": "Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#FF5733",
+        "text_button_bg_color": "#FF5733",
+        "description": " Make a difference in someone's life today! Donate food, clothing, or school supplies at our donation camp.",
+        "price": "$19.99"
+      },
+      {
+        "id": "6",
+        "picture": "Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#FFC300",
+        "card_bg_color": "#FFC300",
+        "text_button_bg_color": "#FFC300",
+        "description": "Help us provide a better future for our children. Donate to our donation camp today and support food, education, clothing, and health programs for children in need.",
+        "price": "$24.99"
+      },
+      {
+        "id": "7",
+        "picture": "Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#33FF57",
+        "card_bg_color": "#33FF57",
+        "text_button_bg_color":  "#33FF57",
+        "description": "Nourish the needy, clothe the cold, and teach the young at our donation camp!",
+        "price": "$14.99"
+      },
+      {
+        "id": "8",
+        "picture": "Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#3366FF",
+        "card_bg_color": "#3366FF",
+        "text_button_bg_color": "#3366FF",
+        "description": "Together, we can make a difference in the lives of those who need it most. Donate to our donation camp today and help us provide food, clothing, education, and health care to those in need.",
+        "price": "$29.99"
+      },
+      {
+        "id": "9",
+        "picture": "Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#FF5733",
+        "text_button_bg_color": "#FF5733",
+        "description": " Make a difference in someone's life today! Donate food, clothing, or school supplies at our donation camp.",
+        "price": "$19.99"
+      },
+      {
+        "id": "10",
+        "picture": "Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#FFC300",
+        "card_bg_color": "#FFC300",
+        "text_button_bg_color": "#FFC300",
+        "description": "Help us provide a better future for our children. Donate to our donation camp today and support food, education, clothing, and health programs for children in need.",
+        "price": "$24.99"
+      },
+      {
+        "id": "11",
+        "picture": "Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#33FF57",
+        "card_bg_color": "#33FF57",
+        "text_button_bg_color":  "#33FF57",
+        "description": "Nourish the needy, clothe the cold, and teach the young at our donation camp!",
+        "price": "$14.99"
+      },
+      {
+        "id": "12",
+        "picture": "Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#3366FF",
+        "card_bg_color": "#3366FF",
+        "text_button_bg_color": "#3366FF",
+        "description": "Together, we can make a difference in the lives of those who need it most. Donate to our donation camp today and help us provide food, clothing, education, and health care to those in need.",
+        "price": "$29.99"
+      }
+      
+    ]
+  }
+  
